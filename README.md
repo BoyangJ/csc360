@@ -1,3 +1,3 @@
-CSC 360 Operating Systems.
+CSC 360 Operating Systems
 
-Built for Linux Ubuntu UVic machine.
+Built for linux.csc.uvic.ca
